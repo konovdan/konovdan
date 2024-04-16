@@ -9,7 +9,7 @@ Hi there! I'm an enthusiast based in Russia. Welcome to my GitHub profile, where
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konovdan&show_icons=true&theme=dark)
 
 ## Top Languages
 
