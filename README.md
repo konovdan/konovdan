@@ -23,7 +23,7 @@ Hi there! I'm an enthusiast based in Russia. Welcome to my GitHub profile, where
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-blue?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### Tools
