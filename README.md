@@ -6,6 +6,7 @@ Hi there! I'm an enthusiast based in Russia. Welcome to my GitHub profile, where
 
 - 🌱 I’m currently working on [connecticum.space](https://github.com/connecticum).
 - 💬 Ask me about anything you want.
+- My email: konovdan2k04@gmail.com
 
 ## GitHub Stats
 
