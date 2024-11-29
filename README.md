@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm an enthusiast based in Russia. Welcome to my GitHub profile, where you can explore some of my projects and contributions. Feel free to reach out if you have any questions or just want to chat!
+Hi there! I'm an enthusiast. Welcome to my GitHub profile, where you can explore some of my projects and contributions. Feel free to reach out if you have any questions or just want to chat!
 
 ## About Me
 
