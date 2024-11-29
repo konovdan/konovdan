@@ -1,12 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm an enthusiast based in Russia. Welcome to my GitHub profile, where you can explore some of my projects and contributions. Feel free to reach out if you have any questions or just want to chat!
-
-## About Me
-
-- 🌱 I’m currently working on [connecticum.space](https://github.com/connecticum).
-- 💬 Ask me about anything you want.
-- My email: konovdan2k04@gmail.com
+Hi there! I'm an enthusiast. Welcome to my GitHub profile, where you can explore some of my projects and contributions. Feel free to reach out if you have any questions or just want to chat!
 
 ## GitHub Stats
 
