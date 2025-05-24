@@ -5,9 +5,6 @@ Hi there! I'm an enthusiast. Welcome to my GitHub profile, where you can explore
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konovdan&show_icons=true&theme=dark)
-
-## Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konovdan&layout=compact&theme=dark)
 
 ## Skills
@@ -34,8 +31,5 @@ Hi there! I'm an enthusiast. Welcome to my GitHub profile, where you can explore
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Libvirt](https://img.shields.io/badge/Libvirt-2684FF?style=for-the-badge&logo=libvirt&logoColor=white)
-
-#Other
-![Homelab Owner](https://img.shields.io/badge/Homelab%20Owner-0078D4?style=for-the-badge&logo=server&logoColor=white)
 
 
