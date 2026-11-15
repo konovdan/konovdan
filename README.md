@@ -4,13 +4,12 @@
 
 **Full-Stack Engineer & Systems Architect** 🌐
 
-Строю scalable системы: от bare-metal и embedded до cloud-native и HPC-кластеров.
+Строю системы: от bare-metal и embedded до cloud-native и HPC-кластеров.
 
 <br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cloud--Native-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" alt="CUDA">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
