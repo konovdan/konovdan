@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer & Systems Architect** 🌐
 
-Строю системы: от bare-metal и embedded до cloud-native и HPC-кластеров.
+I build systems: from bare-metal and embedded to cloud-native and HPC clusters.
 
 <br>
 
@@ -24,29 +24,27 @@
 
 ---
 
-## 🏗️ Моя экспертиза
+## 🏗️ Skills
 
-Я проектирую и разрабатываю высоконагруженные, отказоустойчивые системы, охватывая весь стек технологий:
+I design and develop high-load, fault-tolerant systems, covering the entire technology stack:
 
-| Область | Что я делаю | Технологии |
+| Area | What I Do | Technologies |
 | :--- | :--- | :--- |
-| **🏭 Embedded & IoT** | Bare-metal разработка, RTOS, оптимизация под жесткие ограничения памяти и питания. | C/C++, Rust, Assembly, FreeRTOS, Zephyr |
-| **☁️ Cloud-Native** | Микросервисная архитектура, Kubernetes, построение масштабируемых backend-платформ. | Go, Rust, Kubernetes, Docker, gRPC |
-| **🏎️ High-Performance (HPC)** | Параллельные вычисления, работа с GPU, обработка петабайтов данных с минимальной задержкой. | C++, CUDA, OpenMP, MPI, Slurm |
-| **🖥️ Full-Stack** | От проектирования API и баз данных до создания быстрых и отзывчивых пользовательских интерфейсов. | TypeScript, React, Node.js, PostgreSQL |
+| **🏭 Embedded & IoT** | Bare-metal development, RTOS, optimization for tight memory and power constraints. | C/C++, Rust, Assembly, FreeRTOS, Zephyr |
+| **☁️ Cloud-Native** | Microservice architecture, Kubernetes, building scalable backend platforms. | Rust, Elixir, Kubernetes, Docker, gRPC |
+| **🏎️ High-Performance (HPC)** | Parallel computing, working with GPUs, processing petabytes of data with minimal latency. | C++, CUDA, OpenCL, MPI, Slurm |
+| **🖥️ Full-Stack** | From API and database design to building fast and responsive user interfaces. | TypeScript, React, Node.js, PostgreSQL |
 
 ---
 
-## 🛠️ Ключевые проекты
+## 🛠️ Key Projects
 
-### 1. [Название проекта 1: например, Distributed Sensor Mesh]
-Масштабируемая платформа для сбора данных с тысяч embedded-устройств.
-* **Embedded:** Оптимизация протокола передачи данных для МК с 32 КБ ОЗУ (C++).
-* **Cloud-Native:** Backend на Go, деплой в K8s, обработка 10k+ RPS.
-* **HPC:** Агрегация данных в реальном времени на GPU-кластере.
+### 1. Wireless Fire Detector STM32 + ESP01
+Scalable platform for environmental monitoring.
+* **Embedded:** Optimization of the data transfer protocol for microcontrollers with 32 KB of RAM (C++).
+* **Cloud-Native:** Rust server for collecting data from devices.
 
 ```mermaid
 graph LR
-    A[Embedded Device] --> B[Edge Gateway]
-    B --> C[Cloud-Native API]
-    C --> D[HPC Cluster]
+A[Smoke Detector] --> B[Backend]
+B --> C[Client]
