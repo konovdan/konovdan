@@ -19,7 +19,7 @@
 
 <br>
 
-[![Profile views](https://komarev.com/ghpvc/?username=[konovdan]&label=Profile%20views&color=0077B5)](https://github.com/[konovdan])
+[![Profile views](https://komarev.com/ghpvc/?username=konovdan&label=Profile%20views&color=0077B5)](https://github.com/konovdan)
 
 </div>
 
