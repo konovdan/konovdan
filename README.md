@@ -2,7 +2,7 @@
 
 # 👋 Hi there!
 
-**Full-Stack Engineer & Systems Architect** 🌐
+**Full-Stack Engineer(Really full) & Systems Architect** 🌐
 
 I build systems: from bare-metal and embedded to cloud-native and HPC clusters.
 
